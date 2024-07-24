@@ -16,11 +16,11 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7493233094:AAH953XLWtrYk5QwzNi4z47z5mAwCh5lDyE'
+TOKEN = '7465097974:AAEBS_i6dwMEE6RT-wym1x8Ne_BvLfHgJGI'
 MONGO_URI = 'mongodb+srv://piroop:piroop@piro.hexrg9w.mongodb.net/?retryWrites=true&w=majority&appName=piro&tlsAllowInvalidCertificates=true'
-FORWARD_CHANNEL_ID = -1004267935455
-CHANNEL_ID = -1004267935455
-error_channel_id = -1004267935455
+FORWARD_CHANNEL_ID = -1002191387975
+CHANNEL_ID = -1002191387975
+error_channel_id = -1002191387975
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
